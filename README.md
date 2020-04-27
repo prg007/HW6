@@ -2,7 +2,7 @@
 ### Names : Prasun and Hrishee
 
 ## New File Overview
-`hw_6_systems.zip` : zip file submission of our repository. Refer to our [README for HW4](https://github.com/prg007/Lets_Network) for why we need a zip file.
+`HW6_Systems.zip` : zip file submission of our repository. Refer to our [README for HW4](https://github.com/prg007/Lets_Network) for why we need a zip file.
 Inside, we modified
 
 `driver.cc` : now has a multithreaded version of the benchmarking program
