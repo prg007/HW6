@@ -63,7 +63,7 @@ For all of our experiments in part 2, we kept all parameters constant except for
 We ran both the client and the server on the same machine, so that may have affected our data as well.
 The two graphs below plot the average throughput and 95th percentile latencies as a function of the number of client threads (x-axis)
 and number of server threads (blue, purple, green lines).
-![Graph for Latency Part 2](throughput_part2.png "Graph 3")
+![Graph for Latency Part 2](throughput_hw6.png "Graph 3")
 
 ![Graph for Latency Part 2](latency_part2.png "Graph 4")
 
